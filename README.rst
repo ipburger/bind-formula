@@ -1,3 +1,6 @@
+NOTE: Forked from the main formula repo to lock versions. If we need a future version we must keep up with upstream.
+      More details here: https://docs.saltstack.com/en/latest/topics/development/conventions/formulas.html
+
 ====
 bind
 ====
